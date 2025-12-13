@@ -4,7 +4,7 @@ replicaCount: 1
 
 image:
   repository: openjdk
-  tag: "17-jdk-slim"
+  tag: "17.0.1-jdk-slim"
   pullPolicy: IfNotPresent
 
 nameOverride: ""
