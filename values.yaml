@@ -3,8 +3,8 @@
 replicaCount: 1
 
 image:
-  repository: openjdk
-  tag: "17.0.1-jdk-slim"
+  repository: saydullox/simple-java-app
+  tag: "latest"
   pullPolicy: IfNotPresent
 
 nameOverride: ""
